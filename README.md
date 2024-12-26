@@ -6,7 +6,7 @@ Software Developer
 
 I am a recent graduate of Computer Science, at Thammasat University in Thailand
 
-* 🌍  I'm based in Pathin Thani, Thailand
+* 🌍  I'm based in Pathum Thani, Thailand
 * ✉️  You can contact me at [jinnawat.char@gmail.com](mailto:jinnawat.char@gmail.com)
 
 ### Skills
