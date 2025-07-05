@@ -4,9 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I am a recent graduate of Computer Science, at Thammasat University in Thailand
+Software Developer, Application Development of Betagro
 
 * 🌍  I'm based in Chaengwattana, Bangkok, Thailand.
+* 🎓  Graduated student of Computer Science, at Thammasat University in Thailand
 * ✉️  You can contact me at [jinnawat.char@gmail.com](mailto:jinnawat.char@gmail.com)
 
 ### Skills
