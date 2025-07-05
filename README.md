@@ -6,7 +6,7 @@ Software Developer
 
 Software Developer, Application Development of Betagro
 
-* 🌍  I'm based in Chaengwattana, Bangkok, Thailand.
+* 🌍  I'm based in Laksi, Bangkok, Thailand.
 * 🎓  Graduated student of Computer Science, at Thammasat University in Thailand
 * ✉️  You can contact me at [jinnawat.char@gmail.com](mailto:jinnawat.char@gmail.com)
 
